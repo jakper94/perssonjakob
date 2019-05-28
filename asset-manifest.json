@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/perssonjakob/static/css/main.e963e28a.chunk.css",
+    "main.js": "/perssonjakob/static/js/main.44ec9f58.chunk.js",
+    "main.js.map": "/perssonjakob/static/js/main.44ec9f58.chunk.js.map",
+    "runtime~main.js": "/perssonjakob/static/js/runtime~main.234cf613.js",
+    "runtime~main.js.map": "/perssonjakob/static/js/runtime~main.234cf613.js.map",
+    "static/js/2.f998716e.chunk.js": "/perssonjakob/static/js/2.f998716e.chunk.js",
+    "static/js/2.f998716e.chunk.js.map": "/perssonjakob/static/js/2.f998716e.chunk.js.map",
+    "index.html": "/perssonjakob/index.html",
+    "precache-manifest.2c417eb51d6dbcac633ccd7e65661b5b.js": "/perssonjakob/precache-manifest.2c417eb51d6dbcac633ccd7e65661b5b.js",
+    "service-worker.js": "/perssonjakob/service-worker.js",
+    "static/css/main.e963e28a.chunk.css.map": "/perssonjakob/static/css/main.e963e28a.chunk.css.map"
+  }
+}
