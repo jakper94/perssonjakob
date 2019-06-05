@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/perssonjakob/static/css/main.e963e28a.chunk.css",
-    "main.js": "/perssonjakob/static/js/main.c6b402bc.chunk.js",
-    "main.js.map": "/perssonjakob/static/js/main.c6b402bc.chunk.js.map",
+    "main.css": "/perssonjakob/static/css/main.54d69359.chunk.css",
+    "main.js": "/perssonjakob/static/js/main.17f06940.chunk.js",
+    "main.js.map": "/perssonjakob/static/js/main.17f06940.chunk.js.map",
     "runtime~main.js": "/perssonjakob/static/js/runtime~main.234cf613.js",
     "runtime~main.js.map": "/perssonjakob/static/js/runtime~main.234cf613.js.map",
-    "static/js/2.f998716e.chunk.js": "/perssonjakob/static/js/2.f998716e.chunk.js",
-    "static/js/2.f998716e.chunk.js.map": "/perssonjakob/static/js/2.f998716e.chunk.js.map",
+    "static/js/2.573c7032.chunk.js": "/perssonjakob/static/js/2.573c7032.chunk.js",
+    "static/js/2.573c7032.chunk.js.map": "/perssonjakob/static/js/2.573c7032.chunk.js.map",
     "index.html": "/perssonjakob/index.html",
-    "precache-manifest.8b55393b4f619e29855ab208979dfecd.js": "/perssonjakob/precache-manifest.8b55393b4f619e29855ab208979dfecd.js",
+    "precache-manifest.ff8695cae4cc8209a3cd07bf240d8b4b.js": "/perssonjakob/precache-manifest.ff8695cae4cc8209a3cd07bf240d8b4b.js",
     "service-worker.js": "/perssonjakob/service-worker.js",
-    "static/css/main.e963e28a.chunk.css.map": "/perssonjakob/static/css/main.e963e28a.chunk.css.map"
+    "static/css/main.54d69359.chunk.css.map": "/perssonjakob/static/css/main.54d69359.chunk.css.map"
   }
 }
